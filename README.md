@@ -1,1 +1,1 @@
-# agentic-price-scout
+# n8n
